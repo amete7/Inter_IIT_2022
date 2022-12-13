@@ -1,5 +1,7 @@
 # Inter IIT 2022: Drdo UAV guided UGV IIT Bombay Meta package
 
+Here is the link to the [presentation](https://drive.google.com/file/d/1JpUnahSNb4YmfrWF0sWOAiWtxXFpRcc0/view)
+
 ### Instructions
 
 - Clone this package in catkin_ws/src
